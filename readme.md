@@ -1,7 +1,7 @@
 <p align="center">
 <b><a href="#for-windows">Setup For Windows</a></b>
 |
-<b><a href="#for-macos/linux">Setup For MacOS/Linux</a></b>
+<b><a href="#for-macos-or-linux">Setup For MacOS/Linux</a></b>
 </p>
 
 
@@ -53,7 +53,7 @@ The Windows Virtual Machine environment will be launched. You can install STATA,
 
 ![image](./assets/win6.png)
 
-## For MacOS/Linux
+## For MacOS or Linux
 
 ### Step 1: Contact IT Department for your access credentials
 
