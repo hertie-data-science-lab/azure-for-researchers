@@ -43,17 +43,17 @@ Double click on the small card just created. You can then input your username an
 
 ![image](./assets/win3.png)
 
-### Step 6: Enter your username and password
+### Step 6: Accept the connection
 
 ![image](./assets/win4.png)
 
-### Step 7: Accept the connection
+### Step 7: Virtual Machine is launched 
+
+The Windows Virtual Machine environment will be launched. You can install STATA, GAMS or any software for your computing needs with your own private workspace. 
 
 ![image](./assets/win5.png)
 
-### Step 8: Virtual Machine is launched 
-
-The Windows Virtual Machine environment will be launched. You can install STATA, GAMS or any software for your computing needs with your own private workspace. 
+### Step 8: Exit the Virtual Machine 
 
 ![image](./assets/win6.png)
 
