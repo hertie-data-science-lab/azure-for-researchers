@@ -9,7 +9,11 @@
 
 ### Introduction
 
-Azure is a cloud computing service that offers a number of options for remote virtual machines with high computational performance and large RAM space - ideal for a number of research in econometrics, electricity modelling and data science. This guide 
+Azure is a cloud computing service that offers a number of options for remote virtual machines with high computational performance and large RAM space - ideal for a number of research in econometrics, electricity modelling and data science. This short guide will help to set up the connection from your local laptop/computer to the remote machines created for Hertie School Research Computing.  
+
+Specification: 
+* Windows OS: 8 cores, 64GB RAM, 200GB Temp storage, 256GB persistent storage;
+* Ubuntu: 8 cores, 64GB RAM, 200GB Temp storage, 256GB persistent storage;
 
 ## For Windows
 
